@@ -1,0 +1,1 @@
+This is a Capistrano file to help manage multiple Ubuntu servers.
